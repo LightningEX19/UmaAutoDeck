@@ -1,2 +1,2 @@
 # UmaAutoDeck
-Kyotos Uma Auto Deck
+Kyotos Uma Auto Deck tool
